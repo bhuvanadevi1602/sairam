@@ -1,0 +1,45 @@
+[02-Sep-2022 07:03:25 UTC] PHP Warning:  include(../include/connection.php): Failed to open stream: No such file or directory in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:03:25 UTC] PHP Warning:  include(): Failed opening '../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:03:33 UTC] PHP Warning:  include(../include/connection.php): Failed to open stream: No such file or directory in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:03:33 UTC] PHP Warning:  include(): Failed opening '../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 12:40:37 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 12:40:37 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
+[02-Sep-2022 12:40:53 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 12:40:53 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
+[02-Sep-2022 12:46:01 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 12:46:01 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
+[02-Sep-2022 12:54:15 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 12:54:15 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
+[02-Sep-2022 07:25:12 UTC] PHP Warning:  include(../../include/connection.php): Failed to open stream: No such file or directory in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:25:12 UTC] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:25:24 UTC] PHP Warning:  include(../../include/connection.php): Failed to open stream: No such file or directory in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:25:24 UTC] PHP Warning:  include(): Failed opening '../../include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/local/public_html/sairam/index.php on line 2
+[02-Sep-2022 07:25:24 UTC] PHP Warning:  Undefined variable $connect in /home1/local/public_html/sairam/index.php on line 8
+[02-Sep-2022 07:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/local/public_html/sairam/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/local/public_html/sairam/index.php on line 8
+[02-Sep-2022 12:56:00 Asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'local_login_page.swift_login' doesn't exist in /home1/local/public_html/sairam/index.php:9
+Stack trace:
+#0 /home1/local/public_html/sairam/index.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/local/public_html/sairam/index.php on line 9
+[02-Sep-2022 12:56:25 Asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'local_login_page.swift_login' doesn't exist in /home1/local/public_html/sairam/index.php:9
+Stack trace:
+#0 /home1/local/public_html/sairam/index.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/local/public_html/sairam/index.php on line 9
+[02-Sep-2022 12:57:18 Asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'local_login_page.swift_login' doesn't exist in /home1/local/public_html/sairam/index.php:9
+Stack trace:
+#0 /home1/local/public_html/sairam/index.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/local/public_html/sairam/index.php on line 9
+[02-Sep-2022 12:59:17 Asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'local_login_page.swift_login' doesn't exist in /home1/local/public_html/sairam/index.php:9
+Stack trace:
+#0 /home1/local/public_html/sairam/index.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/local/public_html/sairam/index.php on line 9
+[02-Sep-2022 13:01:08 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 13:01:08 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
+[02-Sep-2022 13:02:31 Asia/kolkata] PHP Warning:  Undefined array key "Username" in /home1/local/public_html/sairam/index.php on line 16
+[02-Sep-2022 13:02:31 Asia/kolkata] PHP Warning:  Undefined array key "Password" in /home1/local/public_html/sairam/index.php on line 17
